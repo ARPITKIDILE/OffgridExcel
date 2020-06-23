@@ -8,7 +8,7 @@
 
 *****************************************
 
-### *Benefits*
+### *Benefits*:
 ```
 1. No manual work required for feeding the marks into storage system.
 2. Automated procedure. 
